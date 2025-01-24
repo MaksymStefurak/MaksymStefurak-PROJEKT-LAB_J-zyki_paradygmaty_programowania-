@@ -1,0 +1,58 @@
+# Visual Studio Code
+.vscode/
+.vscode/*
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+node_modules/
+bower_components/
+
+# Build directories
+dist/
+build/
+out/
+bin/
+obj/
+Debug/
+Release/
+x64/
+x86/
+
+# Visual Studio
+.vs/
+*.vcxproj.user
+*.vcxproj.filters
+*.db
+*.opendb
+*.suo
+*.user
+*.cache
+*.ilk
+*.log
+*.ncb
+*.obj
+*.pch
+*.pdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.vspscc
+*.vssscc
+.idea/
+.idea/*
+
+# Config and environment files
+.env
+.env.local
+.env.*.local
