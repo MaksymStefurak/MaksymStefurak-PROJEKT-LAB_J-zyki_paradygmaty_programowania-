@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Par\\Lab4FSharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3BB37771-75BF-4EC4-A32C-15DDC632D9AF}|Lab4FSharp\\Lab4FSharp.fsproj|c:\\users\\user\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\par\\lab4fsharp\\lab4fsharp\\program.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}",
+      "RelativeMoniker": "D:0:0:{3BB37771-75BF-4EC4-A32C-15DDC632D9AF}|Lab4FSharp\\Lab4FSharp.fsproj|solutionrelative:lab4fsharp\\program.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.fs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Par\\Lab4FSharp\\Lab4FSharp\\Program.fs",
+              "RelativeDocumentMoniker": "Lab4FSharp\\Program.fs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Par\\Lab4FSharp\\Lab4FSharp\\Program.fs",
+              "RelativeToolTip": "Lab4FSharp\\Program.fs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAuwK0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-24T13:32:30.032Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
